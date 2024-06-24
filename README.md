@@ -123,12 +123,12 @@ Visit [http://localhost:3000](http://localhost:3000) to see your application in 
 - **Tailwind CSS**: Style your application efficiently using utility-first CSS.
 - **WAGMI Hooks**: Manage blockchain wallet and network interactions with ease.
 - **Viem**: Handle on-chain interactions directly within your frontend application.
-- **Morph Sepolia Testnet**: Connect to the Morph testnet to develop and test your dApps.
+- **Morph Holesky Testnet**: Connect to the Morph testnet to develop and test your dApps.
 
 ## ✨ Learning Resources
 
 - **Morph L2**: Learn more about Morph and its capabilities by visiting [Morph Layer 2 Official Site](https://www.morphl2.io/).
-- **Morph Documentation**: For detailed information on how Morph works and how to integrate it into your applications, check out the [Morph Docs](https://docs.morphl2.io/docs/how-morph-works/intro/).
+- **Morph Documentation**: For detailed information on how Morph works and how to start building within the chain, check out the [Morph Docs](https://docs.morphl2.io/docs/how-morph-works/intro/).
 
 ## 🚀 Deployment
 
