@@ -2,9 +2,7 @@
 src = "src"
 out = "out"
 libs = ["lib"]
-remappings = [
-    "@openzeppelin/=../../node_modules/@openzeppelin/",
-]
+
 
 [rpc_endpoints]
 morphHolesky = "${MORPH_HOLESKY_RPC_URL}"

@@ -1,7 +1,7 @@
 node_modules
 .env
 .git
-frontend/*/.env
+# frontend/*/.env
 
 # IntelliJ project files
 *.iml

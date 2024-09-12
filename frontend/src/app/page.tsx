@@ -23,11 +23,7 @@ export default function Home() {
             description:
               "Find in-depth information about Morph Holesky features and API.",
           },
-          {
-            title: "GitHub",
-            href: "https://github.com/morphl-labs",
-            description: "Explore the Morph Holesky codebase and contribute.",
-          },
+
           {
             title: "Explorer",
             href: "https://explorer-testnet.morphl2.io/",
@@ -36,7 +32,7 @@ export default function Home() {
           },
           {
             title: "Faucet",
-            href: "https://faucet.morphl2.io/",
+            href: "https://morphfaucet.com/",
             description:
               "Get testnet tokens to start building on Morph Holesky.",
           },
